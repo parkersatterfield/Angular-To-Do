@@ -1,2 +1,3 @@
 # Angular-To-Do
-Learning Angular
+Learning Angular with a Simple To Do List App
+
